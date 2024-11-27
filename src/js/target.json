@@ -1,0 +1,6 @@
+{
+  "series L": "50 + 10.37j",
+  "shunt L": "0.9375 + j6.782",
+  "shunt L - series L": "0.8535 + j6.617",
+  "series L - shunt L - series L": "0.8535 + j16.98"
+}
